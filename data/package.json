@@ -1,0 +1,18 @@
+{
+  "name": "boxingdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boxrecData.js",
+  "scripts": {
+    "run": "node boxrecData.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "boxrec": "^8.0.5",
+    "fast-csv": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "googleapis": "^133.0.0"
+  }
+}
